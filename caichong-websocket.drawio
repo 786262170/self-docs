@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2025-05-19T08:54:40.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" etag="BkU1qJz54bOT9cY5Cevu" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="第 1 页" id="3a9XxEqRJpEGJEU9GApZ">
-    <mxGraphModel dx="1912" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Lk72l0ROwepqVWaHogDX-1" value="Web Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-1" value="Web Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="150" height="1545" as="geometry" />
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-2" value="WebSocket Manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-2" value="WebSocket Manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="274" y="20" width="175" height="1545" as="geometry" />
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-3" value="Redis Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-3" value="Redis Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="510" y="20" width="150" height="1545" as="geometry" />
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-4" value="Business Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-4" value="Business Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="743" y="20" width="150" height="1545" as="geometry" />
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-5" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" vertex="1" parent="1">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-5" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" parent="1" vertex="1">
           <mxGeometry x="85" y="435" width="361" height="359" as="geometry" />
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-6" value="[每5秒]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="Lk72l0ROwepqVWaHogDX-5">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-6" value="[每5秒]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="Lk72l0ROwepqVWaHogDX-5" vertex="1">
           <mxGeometry x="40" width="321" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-7" value="1. 发起WebSocket连接请求" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-7" value="1. 发起WebSocket连接请求" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="238" y="131" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-8" value="2. 检查连接状态" style="curved=1;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-8" value="2. 检查连接状态" style="curved=1;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="411" y="187" />
@@ -37,14 +37,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-9" value="3. 创建Redis连接" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-3">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-9" value="3. 创建Redis连接" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="483" y="273" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-10" value="4. 初始化心跳检测" style="curved=1;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-10" value="4. 初始化心跳检测" style="curved=1;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="411" y="329" />
@@ -52,14 +52,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-11" value="5. 返回连接成功" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-1">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-11" value="5. 返回连接成功" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="238" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-12" value="6. 检查心跳超时" style="curved=1;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-12" value="6. 检查心跳超时" style="curved=1;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="411" y="516" />
@@ -67,21 +67,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-13" value="7. 发送ping消息" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-1">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-13" value="8. 发送pong消息" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="238" y="602" />
+              <mxPoint x="220" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-14" value="8. 返回pong消息" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-14" value="7. 发送ping消息" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="238" y="658" />
+              <mxPoint x="230" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-15" value="9. 更新心跳时间" style="curved=1;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-15" value="9. 更新心跳时间" style="curved=1;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="411" y="714" />
@@ -89,14 +89,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-16" value="10. 发送消息" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-16" value="10. 发送消息" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="238" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-17" value="11. 生成message_uuid" style="curved=1;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-17" value="11. 生成message_uuid" style="curved=1;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="411" y="896" />
@@ -104,63 +104,63 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-18" value="12. 处理业务逻辑" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-4">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-18" value="12. 处理业务逻辑" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="982" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-19" value="13. 发布消息到channel" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-4" target="Lk72l0ROwepqVWaHogDX-3">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-19" value="13. 发布消息到channel" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-4" target="Lk72l0ROwepqVWaHogDX-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="712" y="1038" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-20" value="14. 推送消息到订阅者" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-3" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-20" value="14. 推送消息到订阅者" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-3" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="483" y="1094" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-21" value="15. 转发消息给客户端" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-1">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-21" value="15. 转发消息给客户端" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="238" y="1150" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-22" value="16. 发送消息确认" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-22" value="16. 发送消息确认" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="238" y="1206" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-23" value="17. 更新消息状态" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-4">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-23" value="17. 更新消息状态" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="1262" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-24" value="18. 断开连接" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-24" value="18. 断开连接" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-1" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="238" y="1318" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-25" value="19. 取消订阅" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-3">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-25" value="19. 取消订阅" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="483" y="1374" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lk72l0ROwepqVWaHogDX-26" value="20. 清理连接资源" style="curved=1;rounded=0;" edge="1" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2">
+        <mxCell id="Lk72l0ROwepqVWaHogDX-26" value="20. 清理连接资源" style="curved=1;rounded=0;" parent="1" source="Lk72l0ROwepqVWaHogDX-2" target="Lk72l0ROwepqVWaHogDX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="411" y="1430" />
